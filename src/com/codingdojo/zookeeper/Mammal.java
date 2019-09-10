@@ -1,7 +1,7 @@
 package com.codingdojo.zookeeper;
 
 public class Mammal {
-	private int energy;
+	protected int energy;
 	public Mammal() {
 		energy = 100;
 	}
